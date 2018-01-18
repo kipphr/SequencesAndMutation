@@ -128,7 +128,7 @@ def repeat_move_randomly(n, circle, window):
       :type n: int
       :type circle: rg.Circle
       :type window: rg.RoseWindow
-    where n is nonnegative and the circle is already attached
+    where n is non-negative and the circle is already attached
     to a canvas on the given window.
     """
     for _ in range(n):
